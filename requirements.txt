@@ -1,0 +1,13 @@
+fastapi[standard]
+uvicorn
+python-multipart
+transformers
+torch
+torchvision
+Pillow
+pdf2image
+pypdf2
+pymupdf
+reportlab
+python-magic
+aiofiles
